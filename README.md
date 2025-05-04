@@ -1,2 +1,4 @@
 # Equine-Health-Modeling
-A linear regression model for a kaggle database on horse colic vet outcomes
+A linear regression model for a Kaggle database on horse colic vet outcomes
+Final project for CSC298 - AI Capstone.
+This project is a study and evaluation of equine healthcare data about colic outcomes for horses that have been through the vet, whether they had surgery or not. I picked this project because I personally work with horses a lot and am taking classes on equine anatomy, health, and disease, and I wanted to understand how the field of data science (including AI/ML) can help better support veterinary medicine for large animals. I could take this dataset and use it to run linear regression and figure out several variables that were more likely to be correlated with equine outcomes (surgery, survival). I really enjoyed this project as it applied to an industry in need of innovative technology. If I had more time, I would have tried several other models to figure out which is the most accurate. In this case, I only used one model because it was relatively good in terms of how well it predicted outcomes.
